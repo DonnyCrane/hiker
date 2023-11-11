@@ -1,0 +1,57 @@
+{
+  "version": "202203021438",
+  "filelist": [
+    {
+      "url":"https://allstar.bj.bcebos.com/home/slider2.html",
+     "path":"hiker://files/allstar/homePage/slider2.html"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/00.jpg",
+     "path":"hiker://files/allstar/files/00.jpg"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/slider.html",
+     "path":"hiker://files/allstar/homePage/slider.html"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/add.png",
+     "path":"hiker://files/allstar/files/add.png"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/CD.png",
+     "path":"hiker://files/allstar/files/CD.png"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/CN.png",
+     "path":"hiker://files/allstar/files/CN.png"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/DD.png",
+     "path":"hiker://files/allstar/files/DD.png"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/DN.png",
+     "path":"hiker://files/allstar/files/DN.png"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/HD.png",
+     "path":"hiker://files/allstar/files/HD.png"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/HN.png",
+     "path":"hiker://files/allstar/files/HN.png"
+    }
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/S.png",
+     "path":"hiker://files/allstar/files/S.png"
+    }        
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/SD.png",
+     "path":"hiker://files/allstar/files/SD.png"
+    }        
+    ,{
+      "url":"https://allstar.bj.bcebos.com/home/files/SN.png",
+     "path":"hiker://files/allstar/files/SN.png"
+    }
+  ]
+}
